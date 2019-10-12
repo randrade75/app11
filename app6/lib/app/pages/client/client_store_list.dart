@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:app10/src/models/store_list_model.dart';
+//import 'package:app10/src/models/store_list_model.dart';
 
 class StoreList extends StatefulWidget {
   StoreList({Key key}) : super(key: key);
