@@ -1,5 +1,5 @@
-name: app6
-description: A new Flutter project.
+name: app10
+description: &#x27;A new Flutter project. Created by Slidy&#x27;
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -17,6 +17,10 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  hasura_connect: ^0.1.3
+  dio: ^3.0.3
+  rxdart: ^0.22.3
+  bloc_pattern: ^2.3.4
   flutter:
     sdk: flutter
 
